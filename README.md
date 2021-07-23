@@ -12,7 +12,7 @@ The program:
 getting from the start point to the end point
 
 To run:
-./main <input filename>
+./main "input filename"
 
 Coding Details:
 
