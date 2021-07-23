@@ -1,4 +1,5 @@
-10 20 
+/* Remove comments when testing main.c, 1st line is size of maze, 2nd line is start point, 3rd line is end point and all lines after that is where the obstacles are */
+10 20  
 1 1
 10 20
 5 1
